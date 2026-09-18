@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "count": 16,
+  "skills": [
+    {
+      "id": "bdr-ops-sheet",
+      "description": "How to read, update, and report on the CTV BDR ops sheet (\"CTV BDR Zevari BDR girlies\") \u2014 columns, allowed values, the priority order for filling them in, and status/bottleneck reporting. Use when adding a BDR, updating onboarding status, checking who is verified or active on Zevari, or answering \"where are we with the BDRs\".",
+      "path": "ctv-zevari/bdr-ops-sheet",
+      "source": "ctv-zevari"
+    },
+    {
+      "id": "ctv-offer-stack",
+      "description": "The three offers Joseph sells on a CTV sales call (Zevari VAR core, Managed BDR service, LinkedIn account rental) with approved pricing, BDR pay, and margin math. Use for sales-call prep, quoting, upsell suggestions, margin/revenue calculations, or any question about what CTV charges or pays.",
+      "path": "ctv-zevari/ctv-offer-stack",
+      "source": "ctv-zevari"
+    },
+    {
+      "id": "ctv-zevari-var-loop",
+      "description": "Operating model for CTV, LLC's Zevari VAR + LinkedIn broker + managed BDR business. Use whenever a task touches Zevari, BDR recruiting/onboarding, LinkedIn outreach for CTV, the sales-call flow, or the feedback loop between clients and BDRs. Read this first; it links to the ops-sheet and offer-stack skills.",
+      "path": "ctv-zevari/ctv-zevari-var-loop",
+      "source": "ctv-zevari"
+    },
+    {
+      "id": "automation-pricing-and-close",
+      "description": "Price a scoped automation pilot or setup-plus-retainer service and draft a clear closing conversation. Use when a qualified opportunity is ready for commercial terms, pricing feels arbitrary, or another approver is needed.",
+      "path": "external/john-peslar/automation-pricing-and-close",
+      "source": "john-peslar"
+    },
+    {
+      "id": "first-client-offer-builder",
+      "description": "Package a first automation service, retainer, or internal pilot into one evidence-based offer paragraph with a Value Equation review, delivery stack, bounded risk reversal, and three-buyer test. Use after choosing a buyer and before writing acquisition copy.",
+      "path": "external/john-peslar/first-client-offer-builder",
+      "source": "john-peslar"
+    },
+    {
+      "id": "founder-content-engine",
+      "description": "Turn founder expertise, notes, transcripts, calls, case studies, product work, or messy ideas into repeatable LinkedIn posts, newsletters, YouTube topics, and distribution systems. Use when building a founder brand, creating content pillars, repurposing long-form material, planning weekly content, writing founder-led posts, or turning business lessons into useful content. Trigger on \"founder content\", \"LinkedIn posts\", \"newsletter\", \"YouTube ideas\", \"content engine\", \"repurpose this\", \"thought leadership\", or \"build my personal brand\".",
+      "path": "external/john-peslar/founder-content-engine",
+      "source": "john-peslar"
+    },
+    {
+      "id": "hormozi-pitch",
+      "description": "Turn an offer into a compelling Hormozi-style pitch ready for launch or sales. Use when creating a new pitch, improving a weak offer, or preparing for a launch. Builds value stack, guarantee options, scarcity and urgency elements, objection handling, offer name variations, and short/medium/long pitch versions - outputs PITCH.md.",
+      "path": "external/john-peslar/hormozi-pitch",
+      "source": "john-peslar"
+    },
+    {
+      "id": "hundred-million-offers",
+      "description": "Create irresistible offers using the Value Equation, bonus stacking, risk-reversing guarantees, and ethical scarcity. Use when the user mentions \"grand slam offer\", \"make my offer more compelling\", \"what bonuses should I add\", \"guarantee strategy\", \"offer naming\", or \"people say its too expensive\". Also trigger when packaging a product for higher perceived value, justifying premium pricing instead of discounting, designing a money-back guarantee, or structuring tiers to maximize conversions. Covers the MAGIC naming formula and starving-crowd targeting. For product positioning, see obviously-awesome. For outbound sales, see predictable-revenue.",
+      "path": "external/john-peslar/hundred-million-offers",
+      "source": "john-peslar"
+    },
+    {
+      "id": "kara-cold-outbound",
+      "description": "Use this skill when writing, rewriting, or critiquing LinkedIn cold outbound messages, connection requests, DM icebreaker sequences, or follow-ups. Encodes Kara McMaster's cold outbound playbook (Agent J masterclass, 2026-07-23) filled out with Kellen Casebeer / GTM Cafe doctrine and top-engagement practitioner research from YouTube and Reddit. Optimizes every sequence for the reply, not the booked call.",
+      "path": "external/john-peslar/kara-cold-outbound",
+      "source": "john-peslar"
+    },
+    {
+      "id": "linkedin-signal-miner",
+      "description": "Find LinkedIn buying signals and turn them into warm outreach angles, lead lists, comment strategies, and follow-up workflows. Use when the user wants to identify prospects from posts, comments, job changes, funding news, hiring, pain language, competitor complaints, tool adoption, or content engagement. Trigger on \"LinkedIn signals\", \"buying intent\", \"warm outreach\", \"social selling\", \"prospect list\", \"comment strategy\", \"lead mining\", or \"find people to DM\".",
+      "path": "external/john-peslar/linkedin-signal-miner",
+      "source": "john-peslar"
+    },
+    {
+      "id": "offer-stack-builder",
+      "description": "Build, audit, and improve offers for services, SaaS, AI automation, coaching, communities, and productized services. Use when packaging an offer, improving conversion, adding bonuses, naming deliverables, designing a guarantee, setting pricing logic, clarifying the promise, or turning a service into a productized offer. Trigger on \"offer\", \"pricing\", \"bonus stack\", \"guarantee\", \"productized service\", \"package this\", \"make this more compelling\", \"why is this not converting\", or \"landing page offer\".",
+      "path": "external/john-peslar/offer-stack-builder",
+      "source": "john-peslar"
+    },
+    {
+      "id": "sales-discovery-call-coach",
+      "description": "Prepare, role-play, or review a first sales discovery call for an automation service or internal pilot. Use to uncover pain, funding, authority, and timing and end with a specific mutual next step or a clean disqualification.",
+      "path": "external/john-peslar/sales-discovery-call-coach",
+      "source": "john-peslar"
+    },
+    {
+      "id": "weekly-sales-loop",
+      "description": "Build or audit a sustainable weekly sales routine with List Build, Work-the-List, Reply Triage, and an evidence-based pipeline scorecard. Use when delivery work crowds out selling or a busy-looking pipeline is not producing meetings.",
+      "path": "external/john-peslar/weekly-sales-loop",
+      "source": "john-peslar"
+    },
+    {
+      "id": "typesafe-ai",
+      "description": ">",
+      "path": "external/typesafe-ai",
+      "source": "typesafe"
+    },
+    {
+      "id": "browser-jev-ultrafast",
+      "description": "Optional browser automation with browser-use/jev-ultrafast (TypeSafe Jev picks DOM actions). Use only for live browser tasks AFTER Skillbox recommend_skills has loaded the right playbook. Not a skill recommender.",
+      "path": "meta/browser-jev-ultrafast",
+      "source": "meta"
+    },
+    {
+      "id": "skillbox-router",
+      "description": "ALWAYS use at the start of a task to pick the right Skillbox skills via search_skills / recommend_skills (Jev System-1). Prefer Skillbox over procedural memory for how-to playbooks. Use for any CTV/Zevari, sales, offer, content, or TypeSafe workflow.",
+      "path": "meta/skillbox-router",
+      "source": "meta"
+    }
+  ]
+}
