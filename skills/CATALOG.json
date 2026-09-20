@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "count": 16,
+  "count": 17,
   "skills": [
     {
       "id": "bdr-ops-sheet",
-      "description": "How to read, update, and report on the CTV BDR ops sheet (\"CTV BDR Zevari BDR girlies\") \u2014 columns, allowed values, the priority order for filling them in, and status/bottleneck reporting. Use when adding a BDR, updating onboarding status, checking who is verified or active on Zevari, or answering \"where are we with the BDRs\".",
+      "description": "How to read, update, and report on the CTV BDR ops sheet (\"CTV BDR Zevari BDR girlies\") — columns, allowed values, the priority order for filling them in, and status/bottleneck reporting. Use when adding a BDR, updating onboarding status, checking who is verified or active on Zevari, or answering \"where are we with the BDRs\".",
       "path": "ctv-zevari/bdr-ops-sheet",
       "source": "ctv-zevari"
     },
@@ -18,6 +18,12 @@
       "id": "ctv-zevari-var-loop",
       "description": "Operating model for CTV, LLC's Zevari VAR + LinkedIn broker + managed BDR business. Use whenever a task touches Zevari, BDR recruiting/onboarding, LinkedIn outreach for CTV, the sales-call flow, or the feedback loop between clients and BDRs. Read this first; it links to the ops-sheet and offer-stack skills.",
       "path": "ctv-zevari/ctv-zevari-var-loop",
+      "source": "ctv-zevari"
+    },
+    {
+      "id": "peslar-channel-call-2026-09-19",
+      "description": "Operating notes from Joseph Clark × John Peslar call (2026-09-19) on CTV as Zevari VAR via LinkedIn BDR accounts + Turnwards inbound. Use when recruiting BDRs to hand over LinkedIn, pricing account rentals, designing commission/referral splits with Peslar, targeting 100–500 employee ICP, or deciding inbound vs outbound mix for selling Zevari.",
+      "path": "ctv-zevari/peslar-channel-call-2026-09-19",
       "source": "ctv-zevari"
     },
     {
@@ -76,7 +82,7 @@
     },
     {
       "id": "weekly-sales-loop",
-      "description": "Build or audit a sustainable weekly sales routine with List Build, Work-the-List, Reply Triage, and an evidence-based pipeline scorecard. Use when delivery work crowds out selling or a busy-looking pipeline is not producing meetings.",
+      "description": "Build or audit a sustainable weekly sales routine with List Build, Work-the-List, Reply Triage, and an evidence-based pipeline scoreboard. Use when delivery work crowds out selling or a busy-looking pipeline is not producing meetings.",
       "path": "external/john-peslar/weekly-sales-loop",
       "source": "john-peslar"
     },
